@@ -86,7 +86,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Nihal-Tomar/Nihal-Tomar/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/Nihal-Tomar/Nihal-Tomar/blob/output/github-contribution-grid-snake.svg)
 
 </p>
 
