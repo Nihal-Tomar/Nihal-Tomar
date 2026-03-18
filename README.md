@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Pawan%20Mishra%20|%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Nihal%20Singh%20Tomar%20|%20Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <h1 align="center">Hi 👋 I'm Nihal Singh Tomar</h1>
 
