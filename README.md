@@ -86,7 +86,7 @@
 
 <p align="center">
 
-![snake gif](https://github.com/Nihal-Tomar/Nihal-Tomar/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Nihal-Tomar/Nihal-Tomar/blob/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -97,7 +97,7 @@
 
 <p align="center">
 
-<img height="200" src="https://leetcard.jacoblin.cool/pawan_018?theme=dark&font=Baloo&ext=contest"/>
+<img height="200" src="https://leetcard.jacoblin.cool/Nihal_thakurr?theme=dark&font=Baloo&ext=contest"/>
 
 </p>
 
@@ -107,7 +107,7 @@
 
 <p align="center">
 
-<a href="mailto:nihaltomar@gmail.com">
+<a href="mailto:nihaltomar95@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
