@@ -46,8 +46,8 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🤖 Student Management System | Web dev based AI powered system | [Open Project](https://github.com/Nihal-Tomar/student-portal) |
-
+| Student Management System | Web dev based AI powered system | [Open Project](https://github.com/Nihal-Tomar/student-portal) |
+| 🤖 ApnaKart | An AI-powered smart grocery purchasing platform with modern UI and intelligent recommendations. | [Open Project](https://github.com/Nihal-Tomar/apnakart) |
 | 🌐 Portfolio Website | Personal developer portfolio | [Open Project](#) |
 
 ----
