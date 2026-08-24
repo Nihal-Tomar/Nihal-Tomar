@@ -93,13 +93,7 @@
 ---
 
 
-# 🧠 LeetCode Stats
 
-<p align="center">
-
-<img height="200" src="https://leetcard.jacoblin.cool/username?theme=dark&font=Baloo&ext=contest"/>
-
-</p>
 
 ---
 
