@@ -97,7 +97,7 @@
 
 <p align="center">
 
-<img height="200" src="https://leetcard.jacoblin.cool/Nihal_thakurr?theme=dark&font=Baloo&ext=contest"/>
+<img height="200" src="https://leetcard.jacoblin.cool/username?theme=dark&font=Baloo&ext=contest"/>
 
 </p>
 
